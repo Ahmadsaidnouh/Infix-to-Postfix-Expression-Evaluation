@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619538437 source:c:\users\ahmad nouh\desktop\college\term 4\datastructure\assignment 1\work\mywork\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
